@@ -1,12 +1,12 @@
 # Contributing to Arafa Tech Foundation
 
-Thank you for considering contributing to the frontend of Arafa Tech Foundation! We welcome any contributions that will help us and achieve our mission of advancing technology education in underprivileged communities.
+Thank you for considering contributing to Arafa Tech! We welcome any contributions that will help us and achieve our mission of advancing technology education in underprivileged communities.
 
 ## Guidelines
 Please follow these guidelines when contributing to the project:
 
 - Follow the existing coding style and conventions
-- Write clear and concise commit messages
+- Write clear and concise commit messages (MUST USE THIS CONVENTION https://gitmoji.dev/)
 - Include tests with any new features or bug fixes
 - Ensure that your code works on all supported platforms and browsers
 - Create a separate branch for each feature or bug fix
