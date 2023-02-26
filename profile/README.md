@@ -3,7 +3,7 @@
 Arafa Tech Foundation is a nonprofit organization that aims to advance technology education in underprivileged communities. We believe that access to technology and digital skills is essential for personal and professional development, and that everyone should have the opportunity to learn and succeed in the digital age.
 
 ### Mission
-Our mission is to provide technology education and training to underprivileged communities, with a focus on women, youth, and marginalized groups. We work to empower individuals and communities by providing access to technology, digital skills training, and entrepreneurship programs.
+Arafa Tech is a non-profit organization that provides coding education and mentorship to underprivileged students, empowering them with technical skills for the future.
 
 ### Programs
 Our programs include:
@@ -17,7 +17,7 @@ Our programs include:
 ### How to Get Involved
 There are many ways to get involved with Arafa Tech Foundation:
 
-- Join the Community: join the [discord](https://discord.gg/HQvTe2pHym) server and meet other developers
+- Join the Community: Join the [discord](https://discord.gg/HQvTe2pHym) server and meet other developers.
 
 - Donate: Your donations help us provide technology education and training to underprivileged communities.
 
