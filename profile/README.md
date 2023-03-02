@@ -28,7 +28,7 @@ There are many ways to get involved with Arafa Tech Foundation:
 - 🗣️ Spread the word: Help us raise awareness about our mission and programs by sharing our website and social media accounts.
 
 ### 📞 Contact Us
-To learn more about Arafa Tech Foundation or to get involved, please visit our website at [arafa.tech](https//arafa.tech).
+To learn more about Arafa Tech Foundation or to get involved, please visit our website at [arafa.tech](https://arafa.tech).
 
 Thank you for your support!🙏
 
