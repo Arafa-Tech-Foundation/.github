@@ -17,7 +17,7 @@ Our programs include:
 ### 🤝 How to Get Involved
 There are many ways to get involved with Arafa Tech Foundation:
 
-- 🤝 Join the Community: Join the [discord](https://discord.gg/HQvTe2pHym) server and meet other developers.
+- 🤝 Join the Community: Join the [discord](https://arafa.tech/discord) server and meet other developers.
 
 - 💰 Donate: Your donations help us provide technology education and training to underprivileged communities.
 
